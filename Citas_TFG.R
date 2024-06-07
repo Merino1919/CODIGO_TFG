@@ -1,0 +1,20 @@
+# CITAS DE PAQUETES PARA EL TFG
+
+citation(package = "readxl")
+citation(package = "quantmod")
+citation(package = "tidyverse")
+citation(package = "tidytext")
+citation(package = "quanteda")
+citation(package = "base")
+citation(package = "stats")
+citation(package = "lubridate")
+citation(package = "lda")
+citation(package = "topicmodels")
+citation(package = "reshape2")
+citation(package = "stringr")
+citation(package = "rvest")
+citation(package = "jsonlite")
+citation(package = "ldatuning")
+citation(package = "topicdoc")
+citation(package = "writexl")
+
