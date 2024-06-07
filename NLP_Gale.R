@@ -3,7 +3,6 @@
 # LIBRERIAS
 
 library(tidyverse)
-library(readr)
 library(quanteda)
 library(tm)
 library(stringr)
