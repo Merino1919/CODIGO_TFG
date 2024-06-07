@@ -5,7 +5,6 @@
 library(tidyverse)
 library(quanteda)
 library(tidytext)
-library(tm)
 library(topicmodels)
 library(stringr)
 library(reshape2)
